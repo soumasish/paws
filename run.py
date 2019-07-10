@@ -22,7 +22,7 @@ def login(account_id, username, password):
 
 
 def main():
-    login("114416042199", "soumasish.goswami", "Gkgcmrw9wM#ejUeA2CetTLre")
+    login("a", "b", "c")
 
 
 if __name__ == "__main__":
